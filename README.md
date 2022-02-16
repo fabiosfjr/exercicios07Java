@@ -1,2 +1,2 @@
-# exercicios07Java
+# Exercicios07Java
 Resolução do exercícios de JAVA do Boot Camp Generation. COLLECTIONS
